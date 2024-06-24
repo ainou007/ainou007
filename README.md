@@ -14,7 +14,7 @@
 ✨ Creating bugs since 2022<br>
 📚 I'm currently learning NextJs<br>
 🎯 Goals: ...<br>
-🎲 Fun fact:"Talk is cheap. Show me the code." _ Linus Torvalds _
+🎲 Fun fact: <i>"Talk is cheap. Show me the code."</i> _ Linus Torvalds _
 </p>
 
 ###
